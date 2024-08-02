@@ -8,6 +8,8 @@ public class GitTestApplication {
 
     public static void main(String[] args) {
         System.out.println("new line");
+        System.out.println("new line2");
+        System.out.println("new line3");
         SpringApplication.run(GitTestApplication.class, args);
     }
 
