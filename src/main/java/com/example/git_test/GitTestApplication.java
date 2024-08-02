@@ -12,6 +12,7 @@ public class GitTestApplication {
         System.out.println("new line3");
         System.out.println("new line4");
         System.out.println("new line5");
+        System.out.println("new line6");
         SpringApplication.run(GitTestApplication.class, args);
     }
 
