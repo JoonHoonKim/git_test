@@ -1,6 +1,7 @@
 package com.example.git_test;
 
 public class F {
-    public void test10(){
+    public void methodF(){
+        System.out.println("F");
     }
 }
