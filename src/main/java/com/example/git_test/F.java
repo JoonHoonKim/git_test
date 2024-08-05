@@ -1,6 +1,6 @@
 package com.example.git_test;
 
 public class F {
-    public void test2(){
+    public void test10(){
     }
 }
